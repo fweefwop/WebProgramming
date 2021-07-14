@@ -14,5 +14,5 @@
 1. put [hello.py](hello.py) in your project directory               
 2. set env ```export FLASK_APP=hello```              
 3. run it ```flask run```                
-4. Visit the test site  [http://127.0.0.1:5000/](http://127.0.0.1:5000/
+4. Visit the test site  [http://127.0.0.1:5000/](http://127.0.0.1:5000/)
 If you  you see "Hello World!" then you're done             
